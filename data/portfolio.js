@@ -1,12 +1,12 @@
 const about = {
   // each of these properties is optional - they can be left empty or deleted
   // each element in the `description` array will be treated as a separate paragraph
-  name: 'John Asheley Mudzingwa',
+  name: 'Asheley',
   greetingEmoji: '👋🏾',
   role: 'Computer Science Student',
   company: 'Ohio Dominican University',
   description: [
-    'I am a sophomore at Ohio Dominican University with a major in Computer Science and a minor in Economics. Throughout my studies, I have been focusing on software development and data analysis. Currently, I intern as a data analyst with a risk and insurance management company in Columbus, Ohio and build web and mobile applications with React and SwiftUI',
+    'I am a sophomore computer science major at Ohio Dominican University. Throughout my studies, I have been focusing on building my software development and data science skills, with a goal of going into the software or data field. Currently, I intern as a data analyst with a risk and insurance management company in Columbus, Ohio.',
   ],
   resume: 'https://example.com',
   social: {
@@ -30,8 +30,8 @@ const projects = [
     // livePreview: 'https://example.com',
   },
   {
-    thumbnail: 'images/Asheley-Mudzingwa-ClosePeople-App.png',
-    name: 'Close People App',
+    thumbnail: 'images/Asheley-Mudingwa-ClosePeople-App.png',
+    name: 'Reach Out App',
     description: [
       'An iOS app designed to help users reach out to their support cirle during tough times. Developed using SwiftUI and Core Data to ensure seamless navigation and personalized experiences. (*in progress)',
     ],
@@ -40,7 +40,7 @@ const projects = [
     // livePreview: 'https://example.com',
   },
   {
-    thumbnail: 'images/Ashely-Mudzingwa-Library-Management-System.png',
+    thumbnail: 'images/Asheley-Mudzingwa-Library-System.png',
     name: 'Library Management System',
     description: [
       'An SQL-based databased system simulating library operations. Built with a Python and TKinter frontend for interactive user interface when running locally.',
@@ -50,7 +50,7 @@ const projects = [
     // livePreview: 'https://example.com',
   },
   {
-    thumbnail: 'images/Asheley-Mudzingwa-Google-Playstore-Data-Analysis.png',
+    thumbnail: 'images/Asheley-Mudzingwa-Google-Playstore-Data-Visualization.png',
     name: 'Google Playstore Data Analysis',
     description: [
       'An data visualization project to uncover trends, patterns, and insights from Google Playstore data. Utilizes Python, Pandas, and Matplotlib for in-depth analysis and compelling visualizations.',
